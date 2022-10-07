@@ -30,26 +30,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/SwiftConsIQ'
+global.sig = 'https://instagram.com/faizofc'
 global.sgh = '-' //github
 global.sgc = 'https://chat.whatsapp.com/KbgGdT1cV3rD5JzJDZryis' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCOAloj1gW4OVGMtVDnNaq5w' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '088980870067' //dana
-global.povo = '088980870067' //ovo
-global.pgopay = '088980870067' //gopay
-global.plinkaja = '088980870067' //link aja
-global.ppulsa = '088980870067' //Smarfrent
-global.ppulsa2 = '083112831554' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/SwiftConsIQ'
+global.pdana = '083190747399' //dana
+global.povo = '083190747399' //ovo
+global.pgopay = '083190747399' //gopay
+global.plinkaja = '083190747399' //link aja
+global.ppulsa = '083190747399' //Indosat
+global.ppulsa2 = '083190747399' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.com/Faiz Chan'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283112831554'
-global.nomorown = '6288980870067'
-global.namebot = 'SiestaBotzz'
-global.nameown = 'Swift Cons IQ'
+global.nomorbot = '6283850947839'
+global.nomorown = '6283190747399'
+global.namebot = 'Faiz-Botz'
+global.nameown = 'Faiz Chan'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,7 +58,7 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288980870067', 'Swift Cons IQ', true],
+  ['6283190747399', 'Faiz Chan', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
@@ -109,21 +109,21 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 SiestaBotzz 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅSiestaBotzz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ SiestaBotzz '
+global.wm = '                「 Faiz-Botz 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰Faiz-Botz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Faiz-Botz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Swift Cons IQ`
-global.author = '                「あ SiestaBotzz あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Faiz Kawaii`
+global.author = '                「あ Faiz-Botz あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/2MMp6tM/images-61.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/2MMp6tM/images-61.jpg'
+global.thumb = 'https://i.ibb.co/HDZ8k1K/IMG-20221007-WA0124.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/HDZ8k1K/IMG-20221007-WA0124.jpg'
 global.giflogo = 'https://telegra.ph/file/bbadb501391b53db2e365.mp4'
-global.thumbs = ['https://i.ibb.co/2MMp6tM/images-61.jpg']
-global.fla = 'https://i.ibb.co/2MMp6tM/images-61.jpg'
+global.thumbs = ['https://i.ibb.co/HDZ8k1K/IMG-20221007-WA0124.jpg']
+global.fla = 'https://i.ibb.co/HDZ8k1K/IMG-20221007-WA0124.jpg'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
@@ -188,8 +188,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'SiestaBotzz'
-global.stickauth = `By ©Swift Cons IQ`
+global.stickpack = 'Faiz-Botz'
+global.stickauth = `By ©Faiz Chan`
 
 global.multiplier = 38 // The higher, The harder levelup
 
